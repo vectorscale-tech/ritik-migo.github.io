@@ -1,7 +1,4 @@
 import React from 'react';
-import twitterIcon from './assets/twitter.svg';
-import tiktokIcon from './assets/tiktok.svg';
-import instagramIcon from './assets/instagram.svg';
 
 const MigoLandingPage = () => {
   return (
