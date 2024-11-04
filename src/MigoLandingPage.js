@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const MigoLandingPage = () => {
   return (
@@ -21,7 +22,13 @@ const MigoLandingPage = () => {
           </button>
         </div>
         
-        <div className="absolute bottom-4 right-4 flex flex-col items-end">
+        <div className="absolute bottom-4 right-4 flex items-center gap-4">
+          <Link to="/privacy-policy" className="text-sm hover:underline">
+            Privacy Policy
+          </Link>
+          <Link to="/terms-of-use" className="text-sm hover:underline">
+            Terms of Use
+          </Link>
           <p className="text-sm">&copy; Migo 2024</p>
         </div>
       </div>
