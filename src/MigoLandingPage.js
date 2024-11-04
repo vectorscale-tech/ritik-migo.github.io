@@ -17,9 +17,9 @@ const MigoLandingPage = () => {
         <div className="flex flex-col items-center justify-center flex-grow">
           <h1 className="text-6xl font-bold mb-4">Migo</h1>
           <h2 className="text-2xl mb-8">find your people</h2>
-          <button className="bg-black text-white px-6 py-3 rounded-full text-lg hover:bg-gray-800 transition-colors">
+          {/*<button className="bg-black text-white px-6 py-3 rounded-full text-lg hover:bg-gray-800 transition-colors">
             Join the waitlist
-          </button>
+          </button>*/}
         </div>
         
         <div className="absolute bottom-4 right-4 flex items-center gap-4">
