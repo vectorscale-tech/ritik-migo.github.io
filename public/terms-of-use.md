@@ -67,7 +67,7 @@ Ensuring your use complies with applicable laws and regulations
 
 4.3 Geographic Limitations. Our matching services are only available in certain geographic locations within the United States of America. The list of eligible locations is available on the Service and may be updated from time to time. You may not use the matching services if you do not reside in an eligible location.
 
-##5. CONTENT TYPES AND RIGHTS
+## 5. CONTENT TYPES AND RIGHTS
 
 5.1 User Input and Content. (a) Definition. "Input" means any prompts, comments, questions, or other information you provide to the Service, including interactions with our Chatbot. "User Content" means any information, data, text, files, images, messages, or other materials that you upload, share, post, or transmit through the Service.
 (b) Ownership. You retain ownership of your Input and User Content, subject to the licenses granted herein.
@@ -230,17 +230,17 @@ We make no commitment to maintain any particular feature, functionality, or aspe
 
 ## 17. MISCELLANEOUS
 
-17.1 Assignment You may not assign, subcontract, delegate or otherwise transfer these Terms or any rights or obligations hereunder, whether voluntarily or by operation of law, without our prior written consent. We may freely assign, transfer, or delegate this Agreement and any rights and obligations hereunder, without notice or your consent. This Agreement will be binding upon and inure to the benefit of the parties and their respective successors and permitted assigns. Any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void.
+17.1 Assignment. You may not assign, subcontract, delegate or otherwise transfer these Terms or any rights or obligations hereunder, whether voluntarily or by operation of law, without our prior written consent. We may freely assign, transfer, or delegate this Agreement and any rights and obligations hereunder, without notice or your consent. This Agreement will be binding upon and inure to the benefit of the parties and their respective successors and permitted assigns. Any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void.
 
-17.2 Severability If any provision of these Terms shall be held to be invalid or unenforceable under applicable law, such provision shall be modified to the minimum extent necessary to comply with applicable law while maintaining the intent of the original provision. The invalid or unenforceable provision shall be replaced with a valid provision that most closely matches the intent of the original provision. The remaining provisions of these Terms will remain in full force and effect. The invalidity or unenforceability of any provision shall not affect the validity or enforceability of the Agreement as a whole, unless the invalid or unenforceable provision is essential to the purpose of the Agreement.
+17.2 Severability. If any provision of these Terms shall be held to be invalid or unenforceable under applicable law, such provision shall be modified to the minimum extent necessary to comply with applicable law while maintaining the intent of the original provision. The invalid or unenforceable provision shall be replaced with a valid provision that most closely matches the intent of the original provision. The remaining provisions of these Terms will remain in full force and effect. The invalidity or unenforceability of any provision shall not affect the validity or enforceability of the Agreement as a whole, unless the invalid or unenforceable provision is essential to the purpose of the Agreement.
 
-17.3 Electronic Communications The communications between you and us may take place via electronic means. For contractual purposes, you consent to receive communications from us in electronic form, and you agree that all terms, conditions, agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications would satisfy if they were in writing. 
+17.3 Electronic Communications. The communications between you and us may take place via electronic means. For contractual purposes, you consent to receive communications from us in electronic form, and you agree that all terms, conditions, agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications would satisfy if they were in writing. 
 
-17.4 Force Majeure We shall not be liable for any delay or failure to perform resulting from causes outside our reasonable control, including, but not limited to, acts of God, war, terrorism, pandemic, epidemic, riots, embargos, acts of civil or military authorities, fire, floods, accidents, strikes or shortages of transportation facilities, fuel, energy, labor or materials.
+17.4 Force Majeure. We shall not be liable for any delay or failure to perform resulting from causes outside our reasonable control, including, but not limited to, acts of God, war, terrorism, pandemic, epidemic, riots, embargos, acts of civil or military authorities, fire, floods, accidents, strikes or shortages of transportation facilities, fuel, energy, labor or materials.
 
-17.5 Entire Agreement These Terms, including all policies and documents explicitly incorporated by reference, constitute the entire agreement between you and us regarding your use of the Service and supersede all prior and contemporaneous agreements, proposals, or representations, written or oral, concerning its subject matter. 
+17.5 Entire Agreement. These Terms, including all policies and documents explicitly incorporated by reference, constitute the entire agreement between you and us regarding your use of the Service and supersede all prior and contemporaneous agreements, proposals, or representations, written or oral, concerning its subject matter. 
 
-17.6 Company Information Vectorscale Technologies LLC is incorporated in Illinois with principal offices at 2501 CHATHAM RD SUITE R, SPRINGFIELD, IL 62704. For customer support inquiries, please contact us at support@heymigo.ai.
+17.6 Company Information. Vectorscale Technologies LLC is incorporated in Illinois with principal offices at 2501 CHATHAM RD SUITE R, SPRINGFIELD, IL 62704. For customer support inquiries, please contact us at support@heymigo.ai.
 
 
 Last Updated Date: 5-Nov-2024

@@ -67,7 +67,7 @@ Ensuring your use complies with applicable laws and regulations
 
 4.3 Geographic Limitations. Our matching services are only available in certain geographic locations within the United States of America. The list of eligible locations is available on the Service and may be updated from time to time. You may not use the matching services if you do not reside in an eligible location.
 
-##5. CONTENT TYPES AND RIGHTS
+## 5. CONTENT TYPES AND RIGHTS
 
 5.1 User Input and Content. (a) Definition. "Input" means any prompts, comments, questions, or other information you provide to the Service, including interactions with our Chatbot. "User Content" means any information, data, text, files, images, messages, or other materials that you upload, share, post, or transmit through the Service.
 (b) Ownership. You retain ownership of your Input and User Content, subject to the licenses granted herein.
