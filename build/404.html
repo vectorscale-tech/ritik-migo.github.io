@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <script>
+        // Get the current path
+        const path = window.location.pathname;
+        
+        // Only redirect specific routes
+        if (path === '/privacy-policy' || path === '/terms-of-use') {
+            // Store the path in sessionStorage
+            sessionStorage.redirect = path;
+            // Redirect to the main page
+            window.location.href = '/';
+        } else {
+            // For any other route, just go to the main page
+            window.location.href = '/';
+        }
+    </script>
+</head>
+<body>
+    Redirecting...
+</body>
+</html>
